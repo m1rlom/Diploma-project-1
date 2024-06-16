@@ -135,4 +135,11 @@ color: rgba(255, 255, 255, 0.9);
    margin-top: 55px;
    font-size: 24px;
 }
+.man{
+  background: #1E252B;
+}
+.man-img{
+padding-left: 230px;
+padding-right: 140px;
+}
 
