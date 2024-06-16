@@ -202,7 +202,8 @@
 
   .main-cards-items:hover {
     cursor: pointer;
-    background: url(/hoverBgMainCard.png) no-repeat center;
+    background: url(/hoverBgMainCard.png) no-repeat center/cover;
+    border-radius: 20px;
     margin-top: -20px;
   }
 
@@ -308,3 +309,43 @@
   .hidden{
     display: none;
   } 
+  .newcomer-tools{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .newcomer-left{
+    width: 50%;
+    padding-left: 110px;
+
+  }
+  .newcomer-right{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .newcomer-right .main-cards-items{
+    width: 40%;
+  }
+  .newcomer-header{
+    font-family: var(--font-family);
+font-weight: 500;
+font-size: 48px;
+line-height: 130%;
+color: rgba(255, 255, 255, 0.9);
+margin-bottom: 43px;
+  }
+  .newcomer-text{
+    width: 430px;
+    color: aliceblue;
+    margin-bottom: 60px;
+  }
+  .newcomer-button{
+    padding: 16px 40px; 
+    color: white;
+    background: #ff6e30;
+    border-radius: 15px;
+  }
+
+  
+  
