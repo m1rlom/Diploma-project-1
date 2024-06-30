@@ -411,9 +411,19 @@ width: 549px;
 height: 64px;
   background: #283036;
   margin-top: 100px;
+  padding-left: 25px;
+   border-color: transparent;
+ }
+ .menu-box-second{
+  position: relative;
+  z-index: 5;
  }
  .menu-button{
+  position: absolute;
   border-radius: 8px;
+  top: 170px;
+  color: white;
+  right: 10px;
 width: 130px;
 height: 48px;
 background: #ff6e30;
@@ -462,50 +472,20 @@ background: #ff6e30;
   font-size: 16px;
   color: rgba(255, 255, 255, 0.55);
  }
- .end-text2{
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 16px;
-  color: rgba(255, 255, 255, 0.55);
- }
- .end-text3{
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 16px;
-  color: rgba(255, 255, 255, 0.55);
- }
- .end-text4{
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 16px;
-  color: rgba(255, 255, 255, 0.55);
- }
- .end-text5{
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 16px;
-  color: rgba(255, 255, 255, 0.55);
- }
- .end-text6{
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 16px;
-  color: rgba(255, 255, 255, 0.55);
- }
- .end-text7{
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 16px;
-  color: rgba(255, 255, 255, 0.55);
- }
- .end-text8{
-  font-family: var(--font-family);
-  font-weight: 500;
-  font-size: 16px;
-  color: rgba(255, 255, 255, 0.55);
- }
+ 
  .end-img{
   fill: #fff;
+ }
+ .end-box{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 310px;
+ }
+ .end-title{
+  margin-bottom: 25px;
+ }
+ .end-maybe-title{
+  margin-bottom: 10px;
  }
 
  
