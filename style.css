@@ -381,7 +381,138 @@ width: 430px;
  .slider-img{
  
  }
+ .menu{
+  display: flex;
+  justify-content: center;
+ 
+ }
+ .menu-header{
+  font-family: var(--font-family);
+font-weight: 500;
+font-size: 48px;
+line-height: 130%;
+text-align: center;
+color: rgba(255, 255, 255, 0.9);
 
+margin-top: 250px;
+ }
+ .menu-text{
+  font-family: var(--font-family);
+font-weight: 500;
+font-size: 18px;
+line-height: 167%;
+text-align: center;
+color: rgba(255, 255, 255, 0.55);
+margin-top: 25px;
+ }
+ .menu-nav{
+  border-radius: 15px;
+width: 549px;
+height: 64px;
+  background: #283036;
+  margin-top: 100px;
+ }
+ .menu-button{
+  border-radius: 8px;
+width: 130px;
+height: 48px;
+background: #ff6e30;
+
+ }
+ .end-title{
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 22px;
+  color: rgba(255, 255, 255, 0.9);
+ }
+ .end-maybe-title{
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.9);
+ }
+ .end-title1{
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.9);
+ }
+ .end-title2{
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.9);
+ }
+ .end-title3{
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.9);
+ }
+ .end-text{
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 179%;
+  color: rgba(255, 255, 255, 0.55);
+ }
+ .end-text0{
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.55);
+ }
+ .end-text2{
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.55);
+ }
+ .end-text3{
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.55);
+ }
+ .end-text4{
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.55);
+ }
+ .end-text5{
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.55);
+ }
+ .end-text6{
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.55);
+ }
+ .end-text7{
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.55);
+ }
+ .end-text8{
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.55);
+ }
+ .end-img{
+  fill: #fff;
+ }
+
+ 
+
+ 
+
+ 
   
   
   
